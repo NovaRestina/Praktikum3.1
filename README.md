@@ -35,9 +35,11 @@ Cara Membuat Luas dan Keliling Lingkaran Dengan Flowchart
 9. Assign menghitung Keliling Lingkaran dengan Rumus K = 2 * phi * r
 10. Output menghasilkan Luas dan Keliling Lingkaran
 11. selesai
+
 Hasilnya seperti di gambar ini 
 
 <img width="465" alt="ss7" src="https://user-images.githubusercontent.com/115637858/198828639-9acaf933-d5ac-4cd2-93c6-44a670818bf8.png">
+
 
 ##Latihan 1
 
@@ -45,15 +47,19 @@ Menggunakan Formating String
 
 ![ss1](https://user-images.githubusercontent.com/115637858/198828477-6e469a7a-47b0-4362-9d33-0a4b14c78428.png)
 
+
 ![ss2](https://user-images.githubusercontent.com/115637858/198828498-50cfcd55-e506-4be3-8bc2-d9268ee6dd76.png)
 
+
 ![ss3](https://user-images.githubusercontent.com/115637858/198828548-99868fd9-8773-4adf-975c-27362a9ac141.png)
+
 
 ##Latihan 2
 
 Menggabungkan , Menjumlahkan , dan Pembagian variable
 
 <img width="938" alt="ss9" src="https://user-images.githubusercontent.com/115637858/198831088-7175768c-2dc1-4bed-8730-284955100ac2.png">
+
 
 ##Latihan 3
 
