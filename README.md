@@ -1,12 +1,12 @@
 # Praktikum3.1
-<h> Menghitung Luas dan Keliling Lingkaran dengan Python <h>
+ # Menghitung Luas dan Keliling Lingkaran dengan Python 
 
 Buka Program Pycharm
 
 Buat File Baru 
 
 Kemudian Buat syntax yang diperintah yaitu Luas dan Keliling Lingkaran
- 
+
 Dengan rumus
 >r = input("Masukkan jari-jari lingkaran : ")
 >
@@ -22,7 +22,7 @@ Dengan rumus
 
 ![ss8](https://user-images.githubusercontent.com/115637858/198829606-a0f7430d-c46d-4248-8a69-278981d4bf51.png)
 
-Flowchart
+## Flowchart
 
 <img width="421" alt="ss6" src="https://user-images.githubusercontent.com/115637858/198828623-c2a06c25-01cf-4cb5-b120-58016075d42f.png">
 
@@ -45,7 +45,7 @@ Hasilnya seperti di gambar ini
 <img width="465" alt="ss7" src="https://user-images.githubusercontent.com/115637858/198828639-9acaf933-d5ac-4cd2-93c6-44a670818bf8.png">
 
 
-##Latihan 1
+## Latihan 1
 
 Menggunakan Formating String
 
@@ -58,14 +58,14 @@ Menggunakan Formating String
 ![ss3](https://user-images.githubusercontent.com/115637858/198828548-99868fd9-8773-4adf-975c-27362a9ac141.png)
 
 
-##Latihan 2
+## Latihan 2
 
 Menggabungkan , Menjumlahkan , dan Pembagian variable
 
 <img width="938" alt="ss9" src="https://user-images.githubusercontent.com/115637858/198831088-7175768c-2dc1-4bed-8730-284955100ac2.png">
 
 
-##Latihan 3
+## Latihan 3
 
 Belah Ketupat dengan Formating String
 
