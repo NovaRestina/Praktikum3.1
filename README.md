@@ -2,8 +2,11 @@
 <h> Menghitung Luas dan Keliling Lingkaran dengan Python <h>
 
 Buka Program Pycharm
+
 Buat File Baru 
-Kemudian Buat syntax yang diperintah yaitu Luas dan Keliling Lingkaran 
+
+Kemudian Buat syntax yang diperintah yaitu Luas dan Keliling Lingkaran
+ 
 Dengan rumus
 >r = input("Masukkan jari-jari lingkaran : ")
 >
@@ -24,6 +27,7 @@ Flowchart
 <img width="421" alt="ss6" src="https://user-images.githubusercontent.com/115637858/198828623-c2a06c25-01cf-4cb5-b120-58016075d42f.png">
 
 Cara Membuat Luas dan Keliling Lingkaran Dengan Flowchart
+
 1. Mulai
 2. Declare variable r dengan Type Data 'Real' agar menampilkan sebuah bilangan
 3. Declare variable L, K dengan Type data 'Real' agar menampilkan sebuah bilangan
